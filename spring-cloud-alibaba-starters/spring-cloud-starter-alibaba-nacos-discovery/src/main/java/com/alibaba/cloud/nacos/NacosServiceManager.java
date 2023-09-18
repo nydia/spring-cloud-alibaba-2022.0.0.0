@@ -34,6 +34,7 @@ import static com.alibaba.nacos.api.NacosFactory.createMaintainService;
 import static com.alibaba.nacos.api.NacosFactory.createNamingService;
 import static org.springframework.beans.BeanUtils.copyProperties;
 
+//nacos的服务管理
 /**
  * @author yuhuangbin
  */
